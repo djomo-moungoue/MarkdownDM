@@ -1,12 +1,12 @@
 # MarkdownDM
 
 ## Useful Ressources
-+ [Markdown CheatSheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-+ [Working with advanced formatting](https://docs.github.com/en/articles/working-with-advanced-formatting)
++ [Markdown Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
++ [Markdown Advanced Formatting](https://docs.github.com/en/articles/working-with-advanced-formatting)
 + [Markdown Table Generator Online](https://www.tablesgenerator.com/markdown_tables)
-+ [EMOJI CHEAT SHEET](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c#file-readme-md)
++ [Markdown Emoji Overview](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c#file-readme-md)
 
-# Emoji Cheat Sheet
+# Markdown Emoji Overview
 
 Emoji emoticons listed on this page are supported on 
 - Campfire 
