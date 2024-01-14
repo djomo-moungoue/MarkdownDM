@@ -8,9 +8,56 @@
 
 # Emoji Cheat Sheet
 
+Emoji emoticons listed on this page are supported on 
+- Campfire 
+- GitHub 
+- Basecamp
+- Redbooth
+- Trac
+- Flowdock
+- Sprint.ly
+- Kandan
+- Textbox.io
+- Kippt
+- Redmine
+- JabbR
+- Trello
+- Hall
+- plug.dj
+- Qiita
+- Zendesk
+- Ruby China
+- Grove
+- Idobata
+- NodeBB Forums
+- Slack
+- Streamup
+- OrganisedMinds
+- Hackpad
+- Cryptbin
+- Kato
+- Reportedly
+- Cheerful Ghost
+- IRCCloud
+- Dashcube
+- MyVideoGameList
+- Subrosa
+- Sococo
+- Quip
+- And Bang
+- Bonusly
+- Discourse
+- Ello
+- Twemoji Awesome. 
+
+However some of the emoji codes are not super easy to remember, so here is a little cheat sheet. ✈ Got flash enabled? Click the emoji code and it will be copied to your clipboard.
+
 ## People
 
-:bowtie:
+|Emoji|Code|
+|---|---|
+|:bowtie:|`:bowtie:`|
+
 :smile:
 :laughing:
 :blush:
@@ -142,8 +189,6 @@
 :information_desk_person:
 :raising_hand:
 :bride_with_veil:
-:person_with_pouting_face:
-:person_frowning:
 :bow:
 :couplekiss:
 :couple_with_heart:
@@ -157,7 +202,6 @@
 :baby:
 :older_woman:
 :older_man:
-:person_with_blond_hair:
 :man_with_gua_pi_mao:
 :man_with_turban:
 :construction_worker:
@@ -321,7 +365,6 @@
 :milky_way:
 :partly_sunny:
 :octocat:
-:squirrel:
 
 ## Objects
 
