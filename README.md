@@ -760,7 +760,6 @@ However some of the emoji codes are not super easy to remember, so here is a lit
 |:nine:|:`nine`:|
 |:hash:|:`hash`:|
 |:keycap_ten:|:`keycap_ten`:|
-|:123:|:`123`:|
 |:1234:|:`1234`:|
 |:symbols:|:`symbols`:|
 |:arrow_backward:|:`arrow_backward`:|
@@ -920,7 +919,6 @@ However some of the emoji codes are not super easy to remember, so here is a lit
 |:heavy_minus_sign:|:`heavy_minus_sign`:|
 |:heavy_division_sign:|:`heavy_division_sign`:|
 |:white_flower:|:`white_flower`:|
-|:90:|:`90`:|
 |:100:|:`100`:|
 |:heavy_check_mark:|:`heavy_check_mark`:|
 |:ballot_box_with_check:|:`ballot_box_with_check`:|
