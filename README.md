@@ -743,7 +743,6 @@ However some of the emoji codes are not super easy to remember, so here is a lit
 |:gb:|`:gb:`|
 |:uk:|`:uk:`|
 |:de:|`:de:`|
-|:cm:|`:cm:`|
 
 ## Symbols
 
